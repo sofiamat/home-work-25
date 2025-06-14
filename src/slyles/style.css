@@ -1,0 +1,26 @@
+.item-1:nth-child(1) {
+  width: 150px;
+  height: 150px;
+  margin-top: 20px;
+  margin-left: 250px;
+  background-color: rgb(250, 153, 153);
+  z-index: 1;
+}
+.item-3:nth-child(3) {
+  width: 150px;
+  height: 150px;
+  margin-top: -65px;
+  margin-left: 415px;
+  background-color: rgb(93, 227, 183);
+  z-index: 2;
+}
+
+.item-2:nth-child(2) {
+  width: 150px;
+  height: 150px;
+  margin-top: -65px;
+  margin-left: 331px;
+  background-color: rgb(95, 153, 220);
+  z-index: 99;
+  position: relative;
+}
